@@ -1,1 +1,1 @@
-# This app generates a pdf receipt and updates the csv file when a customer buys an articles.
+# This app generates a pdf receipt and updates the csv file when a customer buys an article.
